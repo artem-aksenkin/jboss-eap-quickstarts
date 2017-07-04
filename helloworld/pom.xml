@@ -21,7 +21,7 @@
     <artifactId>jboss-helloworld</artifactId>
     <version>7.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>JBoss EAP Quickstart: helloworld</name>
+    <name>JBoss EAP Quickstart: helloworld artem </name>
     <description>JBoss EAP Quickstart: Helloworld</description>
     <url>http://www.jboss.org/products/eap</url>
 
